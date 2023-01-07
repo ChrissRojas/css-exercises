@@ -14,6 +14,7 @@ body {
 }
 
 a {
+  color: gray;
   text-decoration: none;
 }
 
@@ -22,9 +23,7 @@ ul{
   margin: 0;
 }
 
-ul li{
-  color: gray;
-}
+
 .left-links,.right-links{
   padding: 0;
   gap: 16px;
